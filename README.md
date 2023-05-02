@@ -1,5 +1,5 @@
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FSleepyJointGrison-size_restricted.gif&tbnid=YP_Npbob1PbCtM&vet=1&imgrefurl=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fhacking%2Bgif&docid=a4_0PQlQ6gB94M&w=529&h=250&itg=1&hl=en-GB&source=sh%2Fx%2Fim">
+<img align="right" alt="coding" width="400" src="![Hacker Typer](https://i.makeagif.com/media/11-25-2015/tyBwMe.gif)>
 
 <!---
 tgoks1/tgoks1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
