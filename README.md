@@ -8,7 +8,7 @@
 tgoks1/tgoks1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![logo](![logo](https://www.google.com/search?q=programming+animation&tbm=isch&ved=2ahUKEwjIkJvT7tb-AhXWyKACHdTjBV4Q2-cCegQIABAC&oq=Progaming+animation&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgAMgcIABANEIAEMgcIABANEIAEMggIABAFEB4QDTIICAAQCBAeEA0yBQgAEKIEOgcIABCKBRBDOgUIABCABDoGCAAQBxAeOgoIABCKBRCxAxBDUOEUWK2EAWCgogFoAHAAeACAAccBiAHMEpIBBDAuMTaYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=xyBRZIiRCdaRg8UP1MeX8AU&client=ms-android-samsung-gj-rev1#imgrc=9Hyjlbn9qr5FqM&imgdii=ekag4nNZM7abSM&lnspr=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGxd)
+![logo](https://www.google.com/search?q=programming+animation&tbm=isch&ved=2ahUKEwjIkJvT7tb-AhXWyKACHdTjBV4Q2-cCegQIABAC&oq=Progaming+animation&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgAMgcIABANEIAEMgcIABANEIAEMggIABAFEB4QDTIICAAQCBAeEA0yBQgAEKIEOgcIABCKBRBDOgUIABCABDoGCAAQBxAeOgoIABCKBRCxAxBDUOEUWK2EAWCgogFoAHAAeACAAccBiAHMEpIBBDAuMTaYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=xyBRZIiRCdaRg8UP1MeX8AU&client=ms-android-samsung-gj-rev1#imgrc=9Hyjlbn9qr5FqM&imgdii=ekag4nNZM7abSM&lnspr=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGxd)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
