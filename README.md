@@ -9,7 +9,12 @@ tgoks1/tgoks1 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ### Hi there, I'm The-Goks 👋
-
+<td  align="center">
+        <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
+        <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
+        <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/The-Goks/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=tgoks1&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
