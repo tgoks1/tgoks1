@@ -8,6 +8,9 @@
 tgoks1/tgoks1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![logo](content://com.android.chrome.FileProvider/images/screenshot/16830395637795690473138495029006.jpg)
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h3 align="center">A passionate Software Engineer from Indonesian</h3>
 ### Hi there, I'm The-Goks 👋
 <td  align="center">
         <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
