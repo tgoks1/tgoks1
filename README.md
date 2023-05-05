@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
         <img width="900" height="1" alt="">
       </td>
 ### and here is my strart
-https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Falphahunt%2Esubstack%2Ecom%2Fp%2F23-weekly-must-reads&urlhash=8Eqs&trk=public_post_feed-article-content
+
 <p align="center"><img src="https://www.codewars.com/users/The-Goks/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=tgoks1&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tgoks1&theme=monokai"/>
