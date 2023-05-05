@@ -21,7 +21,9 @@ You can click the Preview link to take a look at your changes.
         <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
         <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
-      </td>
+        </td>
+
+![1683133016158](https://user-images.githubusercontent.com/124646276/236432275-325e43a7-93e0-4d8a-a586-9f3682f02db5.jpeg)
 ### and here is my strart
 
 <p align="center"><img src="https://www.codewars.com/users/The-Goks/badges/large"/><br /><br />
